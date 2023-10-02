@@ -7,4 +7,27 @@
     <string name="txt_manicura">"Manicura"</string>
     <string name="txt_maquillaje">"Maquillaje"</string>
     <string name="title_activity_inicio">Inicio</string>
+    <string name="txt_sexo">Sexo</string>
+    <string name="title_activity_corte_cabello">Corte_Cabello</string>
+    <string-array name="tipos_cortes">
+        <item>Casquete corto</item>
+        <item>Clásico</item>
+        <item>Corto</item>
+        <item>Largo</item>
+        <item>Undercut</item>
+        <item>Fade</item>
+    </string-array>
+    <string name="title_activity_alaciado_cabello">Alaciado_Cabello</string>
+
+    <string-array name="tipos_alaciados">
+        <item>Express</item>
+        <item>Brasileño</item>
+        <item>Japonés</item>
+        <item>Permanente</item>
+    </string-array>
+    <string name="title_activity_manicura">Manicura</string>
+    <string name="title_activity_maquillaje">Maquillaje</string>
+    <string name="title_activity_reserva_exitosa">Reserva_Exitosa</string>
+
+
 </resources>

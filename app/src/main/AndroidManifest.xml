@@ -13,6 +13,31 @@
         android:theme="@style/Theme.Tarea2"
         tools:targetApi="31">
         <activity
+            android:name=".Reserva_Exitosa"
+            android:exported="false"
+            android:label="@string/title_activity_reserva_exitosa"
+            android:theme="@style/Theme.Tarea2" />
+        <activity
+            android:name=".Maquillaje"
+            android:exported="false"
+            android:label="@string/title_activity_maquillaje"
+            android:theme="@style/Theme.Tarea2" />
+        <activity
+            android:name=".Manicura"
+            android:exported="false"
+            android:label="@string/title_activity_manicura"
+            android:theme="@style/Theme.Tarea2" />
+        <activity
+            android:name=".Alaciado_Cabello"
+            android:exported="false"
+            android:label="@string/title_activity_alaciado_cabello"
+            android:theme="@style/Theme.Tarea2" />
+        <activity
+            android:name=".Corte_Cabello"
+            android:exported="false"
+            android:label="@string/title_activity_corte_cabello"
+            android:theme="@style/Theme.Tarea2" />
+        <activity
             android:name=".Inicio"
             android:exported="false"
             android:label="@string/title_activity_inicio"
